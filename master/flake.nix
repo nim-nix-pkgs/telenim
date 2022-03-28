@@ -11,7 +11,6 @@
   inputs.src-telenim-master.ref   = "refs/heads/master";
   inputs.src-telenim-master.owner = "Yardanico";
   inputs.src-telenim-master.repo  = "telenim";
-  inputs.src-telenim-master.dir   = "";
   inputs.src-telenim-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
