@@ -7,8 +7,37 @@
   "license": "MIT",
   "web": "https://github.com/Yardanico/telenim",
   "refs": [
-    "fatal: unable to access 'https://github.com/Yardanico/telenim/': OpenSSL SSL_read: Connection timed out, errno 110",
+    "refs/heads/master",
     ""
   ],
-  "heads": []
+  "heads": [
+    {
+      "name": "telenim",
+      "version": "0.2.0",
+      "author": "Danil Yarantsev",
+      "desc": "A high-level async TDLib wrapper for Nim",
+      "license": "MIT",
+      "skipDirs": [],
+      "skipFiles": [],
+      "skipExt": [],
+      "installDirs": [],
+      "installFiles": [],
+      "installExt": [],
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.0"
+          }
+        }
+      ],
+      "bin": [],
+      "binDir": "",
+      "srcDir": "src",
+      "backend": "c",
+      "ref": "refs/heads/master"
+    }
+  ]
 }
