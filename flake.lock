@@ -68,11 +68,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1652792081,
-        "narHash": "sha256-b42CTlPZTyN+hZdRO+xzgcOPRLZXBMhM7xYsIXAppas=",
+        "lastModified": 1652797847,
+        "narHash": "sha256-rZYj+O4awrOkK3aBVG5V0QSskvH4K0vwELOFZD2BI7M=",
         "owner": "nim-nix-pkgs",
         "repo": "telenim",
-        "rev": "35960e34bebddaa8e645005b29b00acfee0b8432",
+        "rev": "3d6efdf1a9811e4f6ec6be26570d71f7d3fdcb5f",
         "type": "github"
       },
       "original": {
